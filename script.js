@@ -1744,7 +1744,7 @@ function loadGeneral() {
             </div>
             <h3>${lang().general_sub.about}</h3>
             <div class="stg-section">
-            <span>meo v1.2.0</span>
+            <span>leo v1.2.0</span>
             </div>
             <h3>${lang().general_sub.credits}</h3>
             <div class="stg-section">
@@ -1753,6 +1753,7 @@ function loadGeneral() {
                     <span class="credit">ethernet, moral support, and translating</span>
                     <span class="credit">melt, for the original webhook code</span>
                     <span class="credit">theotherhades, for the IP popup</span>
+                    <span class="credit">eri for the improved trending section</span>
                     <span class="credit">You, ${localStorage.getItem("username")}, for using the client</span>
                     <span class="credit">All the contributors and translators</span>
                 </div>
